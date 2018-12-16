@@ -6,5 +6,6 @@ var SmartContractList = {};
 //SmartContractList.ConfirmPayment = require('./ConfirmPaymentContract')
 SmartContractList.Sell = require('./SellContract')
 SmartContractList.Buy = require('./BuyContract')
+//SmartContractList.SellTest = require('./SellContractTest')
 
 module.exports = SmartContractList;
