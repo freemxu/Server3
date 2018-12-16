@@ -11,5 +11,5 @@ module.exports.abi = abi;
 module.exports.bin = bin;
 module.exports.deployConfig = deployConfig;
 module.exports.callConfig = callConfig;
-
+module.exports.inquireConfig = inquireConfig;
 
